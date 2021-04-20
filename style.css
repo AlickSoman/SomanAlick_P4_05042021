@@ -287,6 +287,8 @@ a:hover {
     font-size: 32px;
 }
 
+
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -326,6 +328,7 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    text-align: inherit;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -369,6 +372,10 @@ a:hover {
         right: 20px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
+    }
+    .mennu-separateur{
+        padding-top: 12px;
+        padding-bottom: 12px;
     }
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {
