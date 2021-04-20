@@ -365,6 +365,10 @@ a:hover {
     z-index: 2;
 }
 
+.Text-agence{
+    font-size: 18px;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -445,6 +449,7 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    
 }
 
 .mg-lg {
@@ -684,7 +689,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -782,7 +787,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
